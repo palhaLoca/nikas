@@ -9,6 +9,8 @@ namespace TesteConsole
 
             // Outro 
             Console.WriteLine("Outro");
+
+            // tras o mergt e carai
         }
     }
 }
