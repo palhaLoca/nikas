@@ -5,9 +5,10 @@ namespace TesteConsole
     internal class Program
     {
         static void Main(string[] args)
-        {        
+        {
 
-            // novo
+            // novo 
+            Console.WriteLine("Novo");
         }
     }
 }
