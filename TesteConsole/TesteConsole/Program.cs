@@ -7,8 +7,8 @@ namespace TesteConsole
         static void Main(string[] args)
         {
 
-            // novo 
-            Console.WriteLine("Novo");
+            // Outro 
+            Console.WriteLine("Outro");
         }
     }
 }
