@@ -6,14 +6,7 @@ namespace TesteConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            //
-            // 
-
-            Console.WriteLine("");
-
-            Console.WriteLine();
+           // feature/codigos 
 
 
         }
